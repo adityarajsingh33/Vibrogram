@@ -9,8 +9,8 @@ function Authenticate() {
             <div className="lightSource1"></div>
             <div className="lightSource2"></div>
             <div className="bigtexts">
-                <p>ART</p>
-                <p>TALES</p>
+                <p>VIBRO</p>
+                <p>GRAM</p>
             </div>
             <img src="https://res.cloudinary.com/suryansh-cloud/image/upload/v1731432306/qozqxa1qkynmlzoryqke.png" className='character' alt="" />
             <div className="form">
