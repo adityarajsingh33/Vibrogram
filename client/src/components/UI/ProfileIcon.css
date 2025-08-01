@@ -1,0 +1,17 @@
+.profile-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid white; */
+    border-radius: var(--radius);
+    overflow: hidden;
+    position: relative;
+    z-index: 0;
+    padding: 2px;
+    border: 2px solid white;
+    cursor: pointer;
+}
+.profile-container>img{
+    object-fit: cover;
+    border-radius: calc(var(--radius) - 2px);
+}
